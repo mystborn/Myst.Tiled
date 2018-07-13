@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27205.2004
+VisualStudioVersion = 15.0.27825.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Myst.Tiled", "TiledImporter\Myst.Tiled.csproj", "{6843C935-CCDF-45D8-BBFE-3D8381A93FF5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Myst.Tiled", "Myst.Tiled\Myst.Tiled.csproj", "{6843C935-CCDF-45D8-BBFE-3D8381A93FF5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {A5ADFEE7-8462-48C6-BB53-7D8915B74DC7}
+		SolutionGuid = {0EEE2D2A-A1FC-46FD-833F-DD1C6F222FC0}
 	EndGlobalSection
 EndGlobal
